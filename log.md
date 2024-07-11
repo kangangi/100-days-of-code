@@ -8,7 +8,7 @@
 
 **Link to work:** [Github Repo]([http://www.example.com](https://github.com/kangangi/MpesaDjangoIntegration))
 
-### Day 0: 11th July 2024
+### Day 1: 11th July 2024
 
 **Today's Progress**: Continued working on the python package for mpesa django integration. Integrated the b2c top up endpoints.
 
